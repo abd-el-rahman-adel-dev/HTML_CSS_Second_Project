@@ -7,7 +7,7 @@ This is the **second project** in the HTML & CSS learning path, featuring a clea
 
 ## 🚀 Live Demo
 
-📍 [View Live](https://abd-el-rahman-adel-dev.github.io/HTML_CSS_Second_Project/)
+📍 [View Live](https://codebyabdo.github.io/HTML_CSS_Second_Project/)
 
 ---
 
@@ -72,8 +72,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+- [Abd El-Rahman Adel](https://github.com/codebyabdo)
+- [LinkedIn](https://www.linkedin.com/in/codebyabdo)
 
 ---
 
